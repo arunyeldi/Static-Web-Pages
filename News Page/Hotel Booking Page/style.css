@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    width: 380px;
+    background-size: cover;
+}
+.booking-card {
+    background-color: #000000e6;
+    padding: 16px;
+    color: #ffffff;
+    border-radius: 8px;
+    height: 20vh;
+    margin: 14px;
+}
+.hotel-name {
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+.beach-name {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 100;
+}
+.price {
+   font-size: 22px; 
+}
+.button-container {
+    text-align: center;
+    padding: 14px;
+}
+.button {
+    height: 38px;
+    width: 112px;
+    font-size: 12px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    font-weight: 600;
+}
