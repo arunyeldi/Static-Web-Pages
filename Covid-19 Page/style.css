@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.top-section {
+    padding: 14px;
+    margin: 10px;
+    font-style: "Roboto";
+}
+.container {
+    height: 100vh;
+    width: 380px;
+    background-size: cover;
+}
+.caard1 {
+    border-radius: 10px;
+    background-color: #0967d219;
+    padding: 6px;
+}
+
+.caard1-img {
+    padding: 6px;
+    height: 65px;
+    width: 65px;
+}
+.caard1-container {
+    padding: 10px;
+    font-weight: 500;
+}
+
+.bottom-section {
+    margin: 10px;
+    font-style: "Roboto";
+}
+
+.bottom-section-headings {
+    padding: 5px;
+}
+
+.symptoms {
+    border-radius: 8px;
+    margin: 8px;
+    padding: 10px;
+    height: 90px;
+    width: 80px;
+    color: white;
+    font-size: 12px;
+}
+
+.symptom1 {
+    background-color: #3ebd93;
+}
+
+.symptom2 {
+    background-color: #e668a7;
+}
+
+.symptom3 {
+    background-color: #a368fc;
+}
+
+.caard2 {
+    border-radius: 10px;
+    background-color: #e12d3919;
+    padding: 6px;
+}
+
+.button {
+    background-color: #0967d2;
+    color: white;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 32px;
+    width: 100px;
+    font-size: 14px;
+}
